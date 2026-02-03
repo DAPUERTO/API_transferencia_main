@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ana Torres",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Carlos Gómez",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "María López",
+      "active": false
+    },
+    {
+      "id": "4",
+      "name": "Juan Pérez",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Laura Martínez",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Pedro Sánchez",
+      "active": false
+    },
+    {
+      "id": "7",
+      "name": "Sofía Ramírez",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Andrés Morales",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Valentina Cruz",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Diego Herrera",
+      "active": false
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "Introducción a las API",
+      "body": "Conceptos básicos"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "title": "HTTP en la práctica",
+      "body": "Uso de métodos HTTP"
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "title": "Arquitectura web",
+      "body": "Cliente-servidor"
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "title": "JavaScript async",
+      "body": "Promesas y async/await"
+    },
+    {
+      "id": "6",
+      "userId": 7,
+      "title": "Manejo de datos",
+      "body": "Map, filter, find"
+    },
+    {
+      "id": "7",
+      "userId": 9,
+      "title": "Testing de APIs",
+      "body": "Pruebas básicas"
+    },
+    {
+      "id": "8",
+      "userId": 9,
+      "title": "Seguridad",
+      "body": "Buenas prácticas"
+    },
+    {
+      "id": "9",
+      "userId": 10,
+      "title": "Documentación",
+      "body": "Importancia"
+    },
+    {
+      "id": "10",
+      "userId": 2,
+      "title": "Integraciones",
+      "body": "Servicios externos"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "body": "Muy buen contenido"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "body": "Claro y conciso"
+    },
+    {
+      "id": "3",
+      "postId": 2,
+      "body": "Buen ejemplo"
+    },
+    {
+      "id": "4",
+      "postId": 4,
+      "body": "Interesante tema"
+    },
+    {
+      "id": "5",
+      "postId": 6,
+      "body": "Muy práctico"
+    },
+    {
+      "id": "6",
+      "postId": 7,
+      "body": "Excelente explicación"
+    },
+    {
+      "id": "7",
+      "postId": 7,
+      "body": "Me ayudó bastante"
+    },
+    {
+      "id": "8",
+      "postId": 10,
+      "body": "Contenido útil"
+    },
+    {
+      "id": "9",
+      "postId": 3,
+      "body": "Buen enfoque"
+    },
+    {
+      "id": "10",
+      "postId": 3,
+      "body": "Fácil de entender"
+    }
+  ]
+}
